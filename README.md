@@ -22,6 +22,10 @@
 - 故障排除和问题分析
 - 安全分析和威胁检测
 
+## 系统界面
+
+![构建状态](http://images.code1288.com/images/logDashboard.png)
+
 ## 安装
 
 按照以下步骤安装 FineLogs：
