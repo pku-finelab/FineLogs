@@ -24,7 +24,7 @@
 
 ## 系统界面
 
-![构建状态](http://images.code1288.com/images/logDashboard.png)
+![系统界面](http://images.code1288.com/images/logDashboard.png)
 
 ## 安装
 
